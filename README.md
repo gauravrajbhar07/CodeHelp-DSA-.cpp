@@ -1,4 +1,4 @@
-# DSA Masterclass Repository 🚀
+# DSA DeepDive Repository 🚀
 
 Welcome to the DSA Masterclass Repository! This repository is your gateway to mastering Data Structures and Algorithms (DSA). Whether you're a beginner eager to grasp the fundamentals or an experienced coder aiming to enhance your skills, our DSA series has you covered.
 
@@ -16,6 +16,6 @@ Embark on the path to becoming a DSA expert with us. Contribute, ask questions, 
 
 Let's learn and evolve together in the world of DSA!
 
-![DSA Masterclass](your-image-url-here)
+![DSA DeepDive](https://i.pinimg.com/564x/2d/48/01/2d4801d83d920857d509269b64b7a604.jpg)
 
 
