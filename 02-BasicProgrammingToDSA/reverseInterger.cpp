@@ -2,6 +2,12 @@
 #include <string>
 using namespace std;
 
+// 123
+// 321
+
+// 123456789 
+// 987654321
+
 int reverseInterger(int n){
 
     int rem;
