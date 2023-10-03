@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-// o/p
+// o/p  
 // Common Elements are 20 80 
 
 vector<int > findCommanElementFrom3SortedArray(vector<int > arr,vector<int >brr,vector<int > crr){
